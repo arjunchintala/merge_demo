@@ -1,3 +1,10 @@
 adding merge line first
+<<<<<<< HEAD
 second line 
 third line newly added which need to merge
+=======
+
+isecond line 
+
+Third line addin
+>>>>>>> main
